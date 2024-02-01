@@ -1,3 +1,1 @@
-f(s) {
-  eval(s)
-}
+eval(p)
